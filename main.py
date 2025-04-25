@@ -11,7 +11,7 @@ from gtts import gTTS
 from pydbus import SessionBus
 
 # DeepSeek 配置
-openai.api_key = "sk-a99ddf118a1d4651ad5f1913ebe01873"
+openai.api_key = ""
 openai.api_base = "https://api.deepseek.com"
 
 # 硬件配置
